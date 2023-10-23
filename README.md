@@ -1,5 +1,20 @@
 # 机器人操作
 
+## 运行
+运行脚本：
+```shell
+sim/sm_humanoid_walker_ga_train.m
+```
+效果：
+
+<figure class="half">
+    <img src=fig/sm_humanoid_walker_rl_24s.gif alt="green2red" width="480"/>
+</figure>
+
+
+## 工具
+[avi转gif](https://www.aconvert.com/cn/video/avi-to-gif/) 。
+
 ## 参考
 
 [训练人形机器人行走](https://ww2.mathworks.cn/help/releases/R2022b/deeplearning/ug/humanoid_walker.html)
