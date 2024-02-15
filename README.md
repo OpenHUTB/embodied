@@ -1,5 +1,5 @@
 # 机器人操作
-
+肌肉执行
 ## 运行
 运行脚本：
 ```shell
@@ -11,6 +11,8 @@ sim/sm_humanoid_walker_ga_train.m
     <img src=fig/sm_humanoid_walker_rl_24s.gif alt="green2red" width="480"/>
 </figure>
 
+## 环境
+基于 Carla，实现目标跟踪、行走、导航功能。具体包括视网膜、腹侧通路、背侧通路、前额叶皮层、运动皮层、肌肉执行的建模。
 
 ## 工具
 [avi转gif](https://www.aconvert.com/cn/video/avi-to-gif/) 。
